@@ -29,3 +29,8 @@ body {
 .section-header {
     font-size: 30px;
 }
+
+.recipe-main-image {
+    width: 40%;
+    height: auto;
+}
